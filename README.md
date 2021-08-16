@@ -1,2 +1,2 @@
 # BootCampEngDados
-Conhecimento aduirido no  Boot camp IGTI
+Conhecimento adquirido no  Boot camp IGTI
